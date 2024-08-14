@@ -1,0 +1,338 @@
+---
+title: "Rachel Kruger's CV"
+author:
+  firstname: Rachel
+  lastname: Kruger
+  address: "Department of Biological Sciences, Binghamton University, Binghamton NY, USA"
+  position: "PhD Student"
+  contacts:
+    - icon: fa envelope
+      text: rkruger1@binghamton.edu
+      url: "mailto:rkruger1@binghamton.edu"
+    - icon: fa link
+      text: rachelkruger.com
+      url: https://rachelkruger.com
+    - icon: fa brands orcid
+      text: 0000-0002-0022-8297
+      url: https://orcid.org/0000-0002-0022-8297
+    - icon: fa brands github
+      text: GitHub
+      url: https://github.com/RachelKruger
+    - icon: fa brands linkedin
+      text: LinkedIn
+      url: https://linkedin.com/in/RachelKruger
+style:
+  color-accent: "009f37"
+format: awesomecv-typst
+---
+
+## Education
+
+```{=typst}
+#resume-entry(
+  title: "PhD in Biological Sciences",
+  location: "Binghamton University",
+  date: "2021 - Present",
+  description: "Speciation in Monkeyflowers",
+)
+#resume-entry(
+  title: "MS in Biological Sciences",
+  location: "Binghamton University",
+  date: "2019-2021",
+  description: "Adaptation of North American Bradyrhizobium to Invasive Legumes Involved Convergent Acquisition of a European Symbiosis Island Variant"
+)
+#resume-entry(
+  title: "BA in Biology",
+  location: "Hartwick College",
+  date: "2012-2016",
+  description: "Minor in Chemistry"
+)
+```
+## Publications
+
+```{=typst}
+#resume-entry(
+  title: "Kruger RF, Rodríguez-Echeverría S, Quatrini P, Parker MA. 2022. Invasional meltdown via horizontal gene transfer of a European symbiosis island variant in North American nodule symbionts of Cytisus scoparius. Biol Invasions. 24:2113–2120. https://doi.org/10.1007/s10530-022-02776-9"
+)
+```
+## Presentations and Lectures
+
+```{=typst}
+#resume-entry(
+  title: "Poster Presentation",
+  location: "Evolution",
+  date: "July 2024",
+  description: "Closely related, highly isolated – insights from a niche model of Monkeyflowers"
+)
+#resume-entry(
+  title: "Symposium Talk",
+  location: "Departmental Symposium, Binghamton University",
+  date: "January 2023",
+  description: "Secondary woodiness in Mimulus” Binghamton University BGSO Symposium"
+)
+#resume-entry(
+  title: "Invited Lecture",
+  location: "Mechanisms of Evolution course, Binghamton University",
+  date: "Fall 2022",
+  description: "Mode of gene action and mutation-selection balance"
+)
+#resume-entry(
+  title: "Symposium Poster",
+  location: "Departmental Symposium, Binghamton University",
+  date: "January 2022",
+  description: "Dispersal syndrome evolution across a habitat connectivity gradient in Mimulus dudleyi"
+)
+#resume-entry(
+  title: "MS Thesis Defense",
+  location: "Binghamton University",
+  date: "May 2021",
+  description: "Adaptation of North American Bradyrhizobium to invasive legumes involved convergent acquisition of a European symbiosis island variant"
+)
+```
+## Honors, Awards, and Grants
+
+```{=typst}
+#resume-entry(
+  title: "Beagle Graduate Research Grant",
+  location: "Deparment of Biological Sciences, Binghamton University",
+  date: "2023",
+  description: "$2000 for field research"
+)
+#resume-entry(
+  title: "Professional Development Fund",
+  location: "State University of New York (SUNY) Graduate Student Employee Union (GSEU)",
+  date: "2023",
+  description: "$268 for field research"
+)
+#resume-entry(
+  title: "Professional Development Fund",
+  location: "SUNY GSEU",
+  date: "2022",
+  description: "$560 for conference attendance"
+)
+#resume-entry(
+  title: "Best Poster Award",
+  location: "Departmental Symposium, Binghamton University",
+  date: "2022",
+  description: "For the poster: 'Dispersal syndrome evolution across a habitat connectivity gradient in Mimulus dudleyi'"
+)
+```
+## Research and Field Experience
+
+```{=typst}
+#resume-entry(
+  title: "Speciation in Mimulus",
+  location: "Binghamton University",
+  date: "2021-Present",
+  description: "Advisor: Dr. James Sobel"
+)
+#resume-item[
+- Investigating ecological sources of floral trait divergence in a recently diverged species pair of Mimulus.
+]
+
+#resume-entry(
+  title: "Pollinator Observation and Floral Morphology of Mimulus sect. Diplacus fieldwork",
+  location: "California",
+  date: "May 2023"
+)
+#resume-item[
+- Conducted pollinator observations and took morphological measurements of floral traits of Mimulus calycinus and M. longiflorus in the Southern Sierra Nevada and the Transverse range of California.
+]
+
+#resume-entry(
+  title: "Tissue and seed collection of Mimulus dudleyi fieldwork",
+  location: "California",
+  date: "April 2022"
+)
+#resume-item[
+- Traveled along the southern Sierra Nevada to find populations of Mimulus dudleyi and collect plant tissue for DNA isolation and seeds for future growing experiments.
+]
+
+#resume-entry(
+  title: "MS Thesis",
+  location: "Binghamton University",
+  date: "2019-2021",
+  description: "Advisor: Dr. Matthew Parker"
+)
+#resume-item[
+- 'Adaptation of North American Bradyrhizobium to Invasive Legumes Involved Convergent Acquisition of a European Symbiosis Island Variant'
+- Evolution, invasion, mutualisms, horizontal gene transfer
+]
+
+#resume-entry(
+  title: "Senior Thesis",
+  location: "Hartwick College",
+  date: "2016",
+  description: "Advisor: Dr. AJ Russo"
+)
+#resume-item[
+- 'Associations of GSK3B levels with occurrence of schizophrenia'
+]
+
+#resume-entry(
+  title: "Island Biogeography",
+  location: "San Salvador, The Bahamas | Hartwick College",
+  date: "2014",
+  description: "Advisors: Dr. Mark Kuhlman & Dr. Doug Hamilton"
+)
+#resume-item[
+- Three-week field course involving self-developed research project on population ecology of hermit crabs on San Salvador Island, The Bahamas.
+]
+
+#resume-entry(
+  title: "Tropical Ecology",
+  location: "Costa Rica | Hartwick College",
+  date: "2013",
+  description: "Advisors: Dr. Stanley Sessions & Dr. Peter Fauth"
+)
+#resume-item[
+- Three-week field course involving several small ecology research projects at various field stations in Costa Rica.
+- Projects included comparing millipede abundance in old-growth vs. secondary growth forests at La Selva, population ecology of dragonflies at Palo Verde, and species interactions of ants and acacias.
+]
+```
+
+## Teaching Experience
+
+```{=typst}
+#resume-entry(
+  title: "Co-Instructor",
+  location: "Binghamton University",
+  date: "Summer 2024",
+  description: "BIOL 114: Intro to Organisms & Populations Biology"
+)
+#resume-item[
+  - Graded assignments for an intensive 5-week version of a semester-long intro biology course. Assisted students with course content questions.
+]
+
+#resume-entry(
+  title: "Undergraduate Mentor",
+  location: "Binghamton University",
+  date: "Spring 2022 - Present",
+  description: "Undergraduate students mentored:"
+)
+#resume-item[
+  - Shuojie Teng, Woodiness in Diplacus project, Graduated December 2022
+  - Jovana Cvetanovic, Investigation of Gametic Isolation in Diplacus project, Ongoing
+  - Riley Peckman, Floral Morphology Divergence in Diplacus project, Ongoing]
+
+#resume-entry(
+  title: "Teaching Assistant",
+  location: "Binghamton University",
+  date: "Spring 2024",
+  description: "BIOL 377: Plant Systematics"
+)
+#resume-item[
+ - Led and assisted with lab portion of course, which included plant dissection, identification, and field trips. Graded assignments for both lecture and lab. Attended lectures.
+]
+
+#resume-entry(
+  title: "High School Student Mentor",
+  location: "Binghamton University - Long Island, NY",
+  date: "January 2022 - April 2023",
+)
+#resume-item[
+ - Mentored an advanced high school student enrolled in her high school’s Authentic Science Research program. Helped develop and execute a research project involving reproductive success of Asclepias syriaca in Long Island, NY.
+]
+
+#resume-entry(
+  title: "Teaching Assistant",
+  location: "Binghamton University",
+  date: "Fall 2023",
+  description: "BIOL 355: Ecology"
+)
+#resume-item[
+  - Led three discussions weekly, guided students through a semester-long species ecology project, helping them to connect core ecological concepts learned in lecture to researching an animal species and its ecology and presenting on it. Taught scientific media literacy skills. Graded assignments for both lecture and discussion. Attended lectures.
+]
+
+#resume-entry(
+  title: "Teaching Assistant",
+  location: "Binghamton University",
+  date: "Fall 2022",
+  description: "BIOL 351: Mechanisms of Evolution"
+)
+#resume-item[
+  - Led three discussions weekly. Assisted students with understanding content, preparing for exams, and completing homework. Graded assignments and exams. Attended lectures.
+]
+
+
+#resume-entry(
+  title: "Teaching Assistant",
+  location: "Binghamton University",
+  date: "Fall 2019 - Spring 2022; Spring 2023",
+  description: "BIOL 113: Intro to Cell & Molecular Biology"
+)
+#resume-item[
+  - Led three discussion sections weekly. Guided students through developing a scientific proposal using the scientific method; graded assignments
+]
+```
+## Community Engagement
+
+```{=typst}
+#resume-entry(
+  title: "Junior Biologists Outreach Program Founding Member",
+  location: "Johnson City, NY",
+  date: "Fall 2021 - Present"
+)
+#resume-item[
+  - Helping 8th grade students develop and execute a semester-long science project. Past projects include investigating legume-rhizobia mutualisms in varying nitrogen fertilizer environments, and investigating seasonal biodiversity on middle school campus.
+]
+```
+## Skills
+
+```{=typst}
+#resume-entry(
+  title: "Programming Languages",
+  date: "3 years",
+  description: "R"
+)
+#resume-entry(
+  title: "Markup Languages",
+  date: "<1 year",
+  description: "Quarto"
+)
+```
+## Professional Service
+
+```{=typst}
+#resume-entry(
+  title: "Peer Review",
+  date: "February 2024",
+  description: "Ecology"
+)
+#resume-entry(
+  title: "Organizing Committee Member",
+  date: "Fall 2024 - Present",
+  description: "Graduate Student Employee Union (GSEU) Binghamton University"
+)
+#resume-entry(
+  title: "Living Wage Committee Member",
+  date: "Fall 2022 - Fall 2023",
+  description: "GSEU Binghamton University"
+)
+#resume-entry(
+  title: "Diversity, Equity, and Inclusion Graduate Student Committee Member",
+  date: "2021-2023",
+  description: "Department of Biological Sciences, Binghamton University"
+)
+#resume-entry(
+  title: "Symposium Planning Committee",
+  date: "2021-2022",
+  description: "Department of Biological Sciences, Binghamton University"
+)
+```
+## Professional Memberships
+
+```{=typst}
+#resume-entry(
+  title: "Botanical Society of America",
+  date: "2021-Present"
+)
+#resume-entry(
+  title: "Society for the Study of Evolution",
+  date: "2021-Present"
+)
+#resume-entry(
+  title: "California Botanical Society",
+  date: "2023-Present"
+)
+```

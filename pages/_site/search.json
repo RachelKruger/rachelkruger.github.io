@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rachel Kruger",
+    "section": "",
+    "text": "Website Under Construction\nI am a 4th year PhD student in the Sobel Lab at Binghamton University. I study speciation in Monkeyflowers."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "Coding Zena\n\nGender: Female Date of birth: 01/05/2015 Nationality: Belgian\nResidence: Belgium\nPhone: (+32)0123456789\nEmail: codingzena@gmail.com\nORCID: 0000-0000-0000-0000\nLinkedIn: sarah-houben-6238abba\n\n\n\n\nEducation\n\n\nPublications\nKruger RF, Rodríguez-Echeverría S, Quatrini P, Parker MA. 2022. Invasional meltdown via horizontal gene transfer of a European symbiosis island variant in North American nodule symbionts of Cytisus scoparius. Biological Invasions. 24, 2113–2120. [https://doi.org/10.1007/s10530-022-02776-9](https://doi.org/10.1007/s10530-022-02776-9)\n\n\nPresentations and Lectures\n\n\nHonors, Awards, and Grants\n\n\nResearch and Field Experience\n\n\nTeaching Experience\n\n\nCommunity Engagement\n\n\nProfessional Service\n\n\nProfessional Memberships"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Kruger RF, Rodríguez-Echeverría S, Quatrini P, and Parker MA. 2022. Invasional meltdown via horizontal gene transfer of a European symbiosis island variant in North American nodule symbionts of Cytisus scoparius. Biol Invasions. 24, 2113–2120. https://doi.org/10.1007/s10530-022-02776-9"
+  },
+  {
+    "objectID": "Untitled/Untitled.html",
+    "href": "Untitled/Untitled.html",
+    "title": "Some stuff about me",
+    "section": "",
+    "text": "Some stuff about me\n\nI poisoned myself doing research.\nI was the first woman to win a Nobel prize\nI was the first person and only woman to win a Nobel prize in two different sciences.\n\n\n\nEducation\n\n\n# A tibble: 3 × 5\n  what                  when    with                where          why      \n  &lt;chr&gt;                 &lt;chr&gt;   &lt;chr&gt;               &lt;chr&gt;          &lt;list&gt;   \n1 Informal studies      1889-91 Flying University   Warsaw, Poland &lt;chr [0]&gt;\n2 Master of Physics     1893    Sorbonne Université Paris, France  &lt;chr [0]&gt;\n3 Master of Mathematics 1894    Sorbonne Université Paris, France  &lt;chr [0]&gt;\n\n\n\n\nNobel Prizes\n\n\n# A tibble: 2 × 3\n  what                      when with                                           \n  &lt;glue&gt;                   &lt;dbl&gt; &lt;chr&gt;                                          \n1 Nobel Prize in Physics    1903 Awarded for her work on radioactivity with Pie…\n2 Nobel Prize in Chemistry  1911 Awarded for the discovery of radium and poloni…\n\n\n\n\nPublications"
+  },
+  {
+    "objectID": "Kruger_cv/Kruger_cv.html",
+    "href": "Kruger_cv/Kruger_cv.html",
+    "title": "Some stuff about me",
+    "section": "",
+    "text": "Some stuff about me\n\nI poisoned myself doing research.\nI was the first woman to win a Nobel prize\nI was the first person and only woman to win a Nobel prize in two different sciences.\n\n\n\nEducation\n\n\n# A tibble: 3 × 5\n  what                       when         with                  where      why  \n  &lt;chr&gt;                      &lt;chr&gt;        &lt;chr&gt;                 &lt;chr&gt;      &lt;lis&gt;\n1 PhD in Biological Sciences 2021-Present Binghamton University Binghamto… &lt;chr&gt;\n2 MS in Biological Sciences  2019-2021    Binghamton University Binghamto… &lt;chr&gt;\n3 BA in Biology              2012-2016    Hartwick College      Oneonta, … &lt;chr&gt;\n\n\n\n\nPublications"
+  },
+  {
+    "objectID": "photos.html",
+    "href": "photos.html",
+    "title": "Photos",
+    "section": "",
+    "text": "Joshua Tree National Park\n\n\n\n\n\nDiplacus calycinus"
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Rachel Kruger",
+    "section": "Links",
+    "text": "Links\nGitHub\nLinkedIn"
+  }
+]
