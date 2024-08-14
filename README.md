@@ -1,1 +1,3 @@
-# rachelkruger.github.ioA line I wrote on my local computer
+# rachelkruger.github.io
+
+# "This is a line from RSTudio"
