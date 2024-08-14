@@ -1,0 +1,7 @@
+---
+title: "Photos"
+---
+
+![Joshua Tree National Park](photos/DSC_0256-2.jpg)
+
+![Diplacus calycinus](photos/DSC_0080.jpg)
